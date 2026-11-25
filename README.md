@@ -1,10 +1,6 @@
 # -CRM-CM-Coursework
 
-CRM Coursework - Segmenting S&P 500 Shares
-Dilshan Kavinda
-November 2026
- 
- 
+
 What this is
 ------------
 This folder has my CRM coursework. I grouped S&P 500 shares in two ways:
