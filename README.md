@@ -45,7 +45,7 @@ If you run it outside Colab, install these first:
  
 Getting the same numbers as the report
 ---------------------------------------
-The numbers in the report come from a run on 24 November 2026.
+The numbers in the report come from a run on 20 November 2026.
 A new run downloads fresh data, so some figures may change slightly
 (Yahoo updates adjusted prices and the S&P 500 list changes over time).
  
