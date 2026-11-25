@@ -17,7 +17,7 @@ What's in the folder
   CRM_Coursework.ipynb         the notebook (all the code)
   CRM_Coursework_Report.docx   the written report
   README.txt                   this file
- 
+  requirements.txt
 When you run the notebook it also creates two folders:
  
   data/      the ticker list, the downloaded prices and a metadata file
